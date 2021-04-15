@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/artree_edu_app/static/css/main.f35bbf7b.chunk.css",
-    "main.js": "/artree_edu_app/static/js/main.d91b115b.chunk.js",
-    "main.js.map": "/artree_edu_app/static/js/main.d91b115b.chunk.js.map",
+    "main.css": "/artree_edu_app/static/css/main.6f38f33a.chunk.css",
+    "main.js": "/artree_edu_app/static/js/main.50c04fe2.chunk.js",
+    "main.js.map": "/artree_edu_app/static/js/main.50c04fe2.chunk.js.map",
     "runtime-main.js": "/artree_edu_app/static/js/runtime-main.06e79f10.js",
     "runtime-main.js.map": "/artree_edu_app/static/js/runtime-main.06e79f10.js.map",
-    "static/js/2.b81d5181.chunk.js": "/artree_edu_app/static/js/2.b81d5181.chunk.js",
-    "static/js/2.b81d5181.chunk.js.map": "/artree_edu_app/static/js/2.b81d5181.chunk.js.map",
+    "static/js/2.33bce526.chunk.js": "/artree_edu_app/static/js/2.33bce526.chunk.js",
+    "static/js/2.33bce526.chunk.js.map": "/artree_edu_app/static/js/2.33bce526.chunk.js.map",
     "index.html": "/artree_edu_app/index.html",
-    "static/css/main.f35bbf7b.chunk.css.map": "/artree_edu_app/static/css/main.f35bbf7b.chunk.css.map",
-    "static/js/2.b81d5181.chunk.js.LICENSE.txt": "/artree_edu_app/static/js/2.b81d5181.chunk.js.LICENSE.txt"
+    "static/css/main.6f38f33a.chunk.css.map": "/artree_edu_app/static/css/main.6f38f33a.chunk.css.map",
+    "static/js/2.33bce526.chunk.js.LICENSE.txt": "/artree_edu_app/static/js/2.33bce526.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.06e79f10.js",
-    "static/js/2.b81d5181.chunk.js",
-    "static/css/main.f35bbf7b.chunk.css",
-    "static/js/main.d91b115b.chunk.js"
+    "static/js/2.33bce526.chunk.js",
+    "static/css/main.6f38f33a.chunk.css",
+    "static/js/main.50c04fe2.chunk.js"
   ]
 }
